@@ -243,7 +243,7 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @KinG_SuPeR_AdMiN_SHIELD
+    ‼️ this bot is made by : @SUD0_SHIELD_PoWeR
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
    ߔࠀ   @KinG_SuPeR_AdMiN_SHIELD
